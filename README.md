@@ -438,7 +438,7 @@ git commit -m "feat: complete chat backend assignment with PostgreSQL, Prisma an
 git branch -M main
 
 # 5. Add your remote GitHub repository URL
-git remote add origin YOUR_GITHUB_REPOSITORY_URL
+git remote add origin https://github.com/akkisunhare/chat-be-firebase.git
 
 # 6. Push to GitHub
 git push -u origin main
